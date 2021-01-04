@@ -1,0 +1,9 @@
+[submodule "apeiron/ptpython"]
+	path = apeiron/ptpython
+	url = https://github.com/ProbonoBonobo/ptpython.git
+[submodule "apeiron/python-prompt-toolkit"]
+	path = apeiron/python-prompt-toolkit
+	url = https://github.com/ProbonoBonobo/python-prompt-toolkit.git
+[submodule "lib/ptpython"]
+	path = lib/ptpython
+	url = https://github.com/ProbonoBonobo/ptpython.git
