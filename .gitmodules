@@ -7,3 +7,6 @@
 [submodule "lib/ptpython"]
 	path = lib/ptpython
 	url = https://github.com/ProbonoBonobo/ptpython.git
+[submodule "lib/python-prompt-toolkit"]
+	path = lib/python-prompt-toolkit
+	url = https://github.com/ProbonoBonobo/python-prompt-toolkit.git

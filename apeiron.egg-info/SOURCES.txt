@@ -1,0 +1,8 @@
+README.rst
+setup.py
+apeiron/__init__.py
+apeiron.egg-info/PKG-INFO
+apeiron.egg-info/SOURCES.txt
+apeiron.egg-info/dependency_links.txt
+apeiron.egg-info/requires.txt
+apeiron.egg-info/top_level.txt
